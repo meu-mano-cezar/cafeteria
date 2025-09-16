@@ -27,3 +27,12 @@ h1{
     color: rgb(109, 56, 31);
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(112, 78, 26);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+}
