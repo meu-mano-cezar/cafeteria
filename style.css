@@ -5,6 +5,25 @@ body{
     text-align: center;
     padding: 50px;
 }
+
+nav{
+    background-color: rgb(112, 78, 26);
+    padding: 10px;
+}
+
+
+nav a {
+    color: rgb(255, 255, 255);
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
 h1{
     color: rgb(109, 56, 31);
 }
+
